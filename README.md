@@ -15,7 +15,9 @@ I have worked on VPC endpoint gateways to securely access S3 buckets without exp
 Overall, I have shown strong intermediate proficiency in Python development, cloud networking, cloud security, automation, and cost optimization. I continue to build on these foundations and am actively moving toward an advanced skill level by applying real-world solutions and learning more advanced cloud and development practices.
 
 
+I have demonstrated strong intermediate leadership maturity by taking initiative to identify and solve team challenges through practical software development and process optimization. I developed Python-based applications that not only improved team operations but also empowered team members to work more efficiently by automating manual tasks and streamlining workflows. My leadership was evident in how I improved team collaboration and communication by simplifying task tracking, managing on-call details, and automating report generation.
 
+I took ownership of improving our workflow further by creating a solution that automatically launches essential tools and resources for team members, cutting down on setup time. Additionally, I introduced a ServiceNow extension that significantly increased productivity by streamlining the process of entering work notes using shortcuts, showing my ability to identify and implement impactful tools for the team.
 
 
 
