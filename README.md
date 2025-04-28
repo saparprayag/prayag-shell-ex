@@ -28,4 +28,6 @@ On the cloud infrastructure side, I made strong contributions by implementing AW
 Overall, I have consistently taken ownership of projects, demonstrated initiative in process improvements, and contributed technical solutions that have made a meaningful difference to the team’s productivity and the company’s operations. My leadership skills have matured through this process, and I am committed to continuously building on these experiences to take on more advanced responsibilities in the future.
 
 
+Over the past year, I have made significant contributions by developing Python applications that streamlined team operations, automated tasks, and improved workflow efficiency. I took ownership of key projects like simplifying team updates, managing on-call details, and creating tools that saved setup time. I also implemented a ServiceNow extension to increase productivity. In addition, I improved AWS cloud infrastructure by optimizing cost, security, and performance. These efforts reflect my commitment to continuous learning, process improvement, and leadership, as I continue to grow and take on more advanced responsibilities.
+
   
